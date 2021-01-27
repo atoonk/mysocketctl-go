@@ -23,7 +23,7 @@ import (
 	"os"
 	"runtime"
 
-	"github.com/atoonk/mysocketctl/go/internal/http"
+	"github.com/atoonk/mysocketctl-go/internal/http"
 	osrename "github.com/jbenet/go-os-rename"
 	"github.com/spf13/cobra"
 )

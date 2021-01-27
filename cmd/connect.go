@@ -26,8 +26,8 @@ import (
 	"syscall"
 	"time"
 
-	"github.com/atoonk/mysocketctl/go/internal/http"
-	"github.com/atoonk/mysocketctl/go/internal/ssh"
+	"github.com/atoonk/mysocketctl-go/internal/http"
+	"github.com/atoonk/mysocketctl-go/internal/ssh"
 	"github.com/jedib0t/go-pretty/table"
 	"github.com/spf13/cobra"
 )

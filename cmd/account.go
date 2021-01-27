@@ -21,7 +21,7 @@ import (
 	"log"
 	"os"
 
-	"github.com/atoonk/mysocketctl/go/internal/http"
+	"github.com/atoonk/mysocketctl-go/internal/http"
 	"github.com/jedib0t/go-pretty/table"
 	"github.com/spf13/cobra"
 )

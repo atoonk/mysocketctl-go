@@ -22,7 +22,7 @@ import (
 
 	"os"
 
-	"github.com/atoonk/mysocketctl/go/internal/http"
+	"github.com/atoonk/mysocketctl-go/internal/http"
 	"github.com/spf13/cobra"
 	"golang.org/x/crypto/ssh/terminal"
 )
